@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scully-jomer-blog"
+    }
+  },
+  "defaultProject": "scully-jomer-blog",
+  "cli": {
+    "analytics": "40063252-350a-4447-8296-a2fbb6d429fe"
+  }
 }
